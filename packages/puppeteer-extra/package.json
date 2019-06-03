@@ -27,7 +27,7 @@
   ],
   "devDependencies": {
     "ava": "^0.25.0",
-    "puppeteer": "next",
+    "puppeteer": "jerrydeng/puppeteer",
     "puppeteer-extra-plugin": "^3.0.4",
     "standard": "^11.0.0",
     "update-markdown-jsdoc": "^1.0.2",
