@@ -56,7 +56,7 @@
     "@types/puppeteer": "^1.12.1",
     "ava": "^1.2.1",
     "lodash.camelcase": "^4.3.0",
-    "puppeteer": "next",
+    "puppeteer": "jerrydeng/puppeteer",
     "rollup": "^1.1.2",
     "rollup-plugin-commonjs": "^9.2.0",
     "rollup-plugin-node-resolve": "^4.0.0",
