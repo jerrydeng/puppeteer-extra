@@ -52,7 +52,7 @@
     "@types/node": "^10.12.23",
     "@types/puppeteer": "^1.12.1",
     "ava": "^1.2.1",
-    "puppeteer": "next",
+    "puppeteer": "jerrydeng/puppeteer",
     "ts-node": "^8.0.2",
     "tslint": "^5.12.1",
     "tslint-config-prettier": "^1.18.0",
